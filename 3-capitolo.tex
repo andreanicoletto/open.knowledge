@@ -1,0 +1,66 @@
+\chapter{Una stampante difettosa e la nascita del software libero}
+
+Abbiamo visto come Internet costituisca, con il suo essere capillarmente esteso e i suoi
+molteplici paradigmi, il miglior strumento di diffusione delle informazioni. Analizzato in questo
+modo però risulta solamente una struttura vuota, come un apparato circolatorio all’interno
+del quale non scorre del sangue. Il sangue sono le informazioni che sono racchiuse nei
+server, la quantità di informazioni che fluisce nella rete dipende dalle condizioni a cui la
+collettività deve sottostare per poterle utilizzare. Queste condizioni sono studiate dal diritto
+d’autore e sono raccolte e definite nelle licenze. È l’aumento della restrittività delle licenze
+d’uso del software proprietario che ha spinto molti programmatori ad aderire alle idee di
+Richard Stallman e della sua Free Software Foundation. La nascita del Free Software e
+dell’Open Source è ciò che ha incentivato l’apertura della rete alla distribuzione di contenuti
+liberi di qualsiasi tipo e non solo di codice.
+
+Per parlare di software libero è prima necessario parlare però di software proprietario.
+Agli albori dell’informatica la questione della condivisione del codice si poneva in modo
+diverso da quello attuale: le macchine erano infatti spesso uniche e avevano determinate
+specifiche tecniche molto diverse tra loro. Questo rendeva impossibile portare\footnote{Dall'inglese to port, adattare un software ad una piattaforma diversa da quella per cui è stato progettato.} un
+programma da una macchina all’altra; è negli anni sessanta, con la nascita dei sistemi
+operativi e con lo sviluppo dei primi linguaggi di programmazione di alto livello, ovvero quei
+linguaggi più vicini al linguaggio umano che al linguaggio macchina, che ci si rende conto
+dei vantaggi nel riutilizzare una stessa porzione di codice.
+
+Uno degli OS più diffusi all’epoca era Unix, distribuito assieme all’hardware in
+differenti versioni commerciali personalizzate dai produttori. Queste personalizzazioni
+spesso facevano in modo che il software scritto per una distribuzione non funzionasse su
+una distribuzione concorrente, impedendo di fatto la condivisione del software attraverso le
+varie piattaforme e la pratica di patch\footnote{Dall’inglese to patch: rattoppare, aggiustare. In ambito informatico indica l’opera di modifica di un programma volta ad eliminare un
+difetto o ad aggiungere una funzione. Con il sostantivo patch si intende il frammento di codice che costituisce la modifica.}. Le licenze diventarono rapidamente il mezzo con il
+quale i produttori potevano riciclare codice obsoleto, rivendendolo apportando modifiche
+minime.
+
+Cominciò tutto con una stampante difettosa. È il 1980 e al MIT è appena arrivata una nuova
+stampante, donata dalla Xerox per sostituire una macchina obsoleta. Le stampanti, si sa,
+spesso si inceppano e questa non fa eccezione. Capita così che i ricercatori mandino in
+stampa una serie di documenti e solo più tardi, quando uno di essi si reca a prendere i plichi
+stampati, si accorgano che un foglio ha inceppato l’apparecchio impedendogli di trasferire
+su carta i file, costringendo tutti a riprogrammare la coda di stampa e ad attendere altro
+tempo per poter avere la copia fisica dei loro documenti. Il problema si presentava anche
+sulla vecchia stampante, ma era stato arginato da Richard Stallman con una piccola modifica
+al codice sorgente del driver. Questa modifica faceva sì che l’inceppamento
+dell’apparecchio venisse notificato sui computer ad esso connessi, avvertendo
+immediatamente tutti del problema e evitando uno spreco di tempo. Stallman tentò di
+patchare anche la nuova stampante ma si rese conto di non poter accedere al suo codice
+sorgente, poteva visualizzare solo un file scritto in binario che né lui né i suoi colleghi erano
+in grado di comprendere e modificare. Recatosi per altri motivi alla Carnegie Mellon
+University dove lavorava l’autore del codice, il Prof. Robert Sproull, Stallman tentò di
+ottenerne una copia su cui lavorare. Il Prof. Sproull però, avendo firmato un accordo di non
+divulgazione con la Xerox, si rifiutò di consegnare una copia del codice al ricercatore. Gli
+NDA (Non-Disclosure Agreement) erano una pratica abbastanza nuova all’epoca, ma in
+rapida diffusione.
+
+Stallman percepì questa nuova tendenza come una minaccia alla possibilità di
+modificare i programmi secondo il gusto personale o le necessità della comunità. Dal punto
+di vista dell’industria informatica rappresentava invece una svolta nelle tattiche di mercato,
+svolta che rendeva il software fonte di guadagno quanto, se non più, dell’hardware. La legge
+etica non scritta di un’intera comunità era messa a rischio, etica basata, sin dalla sua nascita
+una ventina di anni prima, sulla condivisione, sulla libertà e sulla convinzione che i contributi
+individuali fossero un importante mezzo di sviluppo della comunità nel suo complesso.
+
+Il rifiuto di condividere da parte di Sproull portò Stallman a interrogarsi sulla gravità
+del problema e, in seguito, a fondare la Free Software Foundation \parencite{williams,stegman},
+fondazione da cui nasceranno GNU\footnote{GNU (Acronimo ricorsivo significante GNU's Not Unix) è un sistema operativo unix-like, prodotto dalla Free Software Foundation, che si
+distingue per essere stato il primo SO distribuito come software libero.} e la GPL\footnote{La GPL (General Public License) è la licenza con cui è distribuito GNU ed è nata con lo scopo di fornire agli sviluppatori di software
+libero che garantisse le "Quattro Libertà" (cfr. capitolo \ref{chapter:4}) e potesse essere applicata senza modifiche.} e che saranno fonti di
+ispirazione per enti come Creative Commons e la Wikimedia Foundation.

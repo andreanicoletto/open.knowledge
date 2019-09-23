@@ -1,0 +1,1035 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{arduino}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=902887fe690e70374a0f302f9d889edb}{%
+           family={{Arduino L.L.C.}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{902887fe690e70374a0f302f9d889edb}
+      \strng{fullhash}{902887fe690e70374a0f302f9d889edb}
+      \strng{bibnamehash}{902887fe690e70374a0f302f9d889edb}
+      \strng{authorbibnamehash}{902887fe690e70374a0f302f9d889edb}
+      \strng{authornamehash}{902887fe690e70374a0f302f9d889edb}
+      \strng{authorfullhash}{902887fe690e70374a0f302f9d889edb}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Arduino L.L.C.: Un po' di storia...}
+      \field{year}{s\adddot a \adddot}
+      \verb{urlraw}
+      \verb http://playground.arduino.cc/Italiano/StoriaDiArduino
+      \endverb
+      \verb{url}
+      \verb http://playground.arduino.cc/Italiano/StoriaDiArduino
+      \endverb
+    \endentry
+    \entry{balboni}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b0f83db9108f646b38901551de15278c}{%
+           family={Balboni},
+           familyi={B\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Viareggio}%
+      }
+      \list{publisher}{1}{%
+        {Dissensi}%
+      }
+      \strng{namehash}{b0f83db9108f646b38901551de15278c}
+      \strng{fullhash}{b0f83db9108f646b38901551de15278c}
+      \strng{bibnamehash}{b0f83db9108f646b38901551de15278c}
+      \strng{authorbibnamehash}{b0f83db9108f646b38901551de15278c}
+      \strng{authornamehash}{b0f83db9108f646b38901551de15278c}
+      \strng{authorfullhash}{b0f83db9108f646b38901551de15278c}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Il pianeta mangiato. La guerra dell'agricoltura contro la terra.}
+      \field{year}{2017}
+    \endentry
+    \entry{beall2012}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=97ea7a1c35e2183a478117802c7171a2}{%
+           family={Beall},
+           familyi={B\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{97ea7a1c35e2183a478117802c7171a2}
+      \strng{fullhash}{97ea7a1c35e2183a478117802c7171a2}
+      \strng{bibnamehash}{97ea7a1c35e2183a478117802c7171a2}
+      \strng{authorbibnamehash}{97ea7a1c35e2183a478117802c7171a2}
+      \strng{authornamehash}{97ea7a1c35e2183a478117802c7171a2}
+      \strng{authorfullhash}{97ea7a1c35e2183a478117802c7171a2}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7415}
+      \field{title}{Predatory publishers are corrupting open access.}
+      \field{volume}{489}
+      \field{year}{2012}
+      \field{pages}{179}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/489179a
+      \endverb
+    \endentry
+    \entry{beall2013}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=97ea7a1c35e2183a478117802c7171a2}{%
+           family={Beall},
+           familyi={B\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{97ea7a1c35e2183a478117802c7171a2}
+      \strng{fullhash}{97ea7a1c35e2183a478117802c7171a2}
+      \strng{bibnamehash}{97ea7a1c35e2183a478117802c7171a2}
+      \strng{authorbibnamehash}{97ea7a1c35e2183a478117802c7171a2}
+      \strng{authornamehash}{97ea7a1c35e2183a478117802c7171a2}
+      \strng{authorfullhash}{97ea7a1c35e2183a478117802c7171a2}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Learned Publishing}
+      \field{number}{2}
+      \field{title}{Predatory publishing is just one of the consequences of gold open access}
+      \field{volume}{26}
+      \field{year}{2013}
+      \field{pages}{79\bibrangedash 84}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1087/20130203
+      \endverb
+    \endentry
+    \entry{ensembl}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=84278deb7d68928cf4c0935501ab1ab5}{%
+           family={Ensembl},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{84278deb7d68928cf4c0935501ab1ab5}
+      \strng{fullhash}{84278deb7d68928cf4c0935501ab1ab5}
+      \strng{bibnamehash}{84278deb7d68928cf4c0935501ab1ab5}
+      \strng{authorbibnamehash}{84278deb7d68928cf4c0935501ab1ab5}
+      \strng{authornamehash}{84278deb7d68928cf4c0935501ab1ab5}
+      \strng{authorfullhash}{84278deb7d68928cf4c0935501ab1ab5}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Disclaimer. EMBL-EBI}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.ensembl.org/info/about/legal/disclaimer.html
+      \endverb
+      \verb{url}
+      \verb http://www.ensembl.org/info/about/legal/disclaimer.html
+      \endverb
+    \endentry
+    \entry{fuchs}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=350413ba2bd946f2dcda42f17251df57}{%
+           family={Fuchs},
+           familyi={F\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e505e5c831f9736fca5fbdccf4cec866}{%
+           family={Sandoval},
+           familyi={S\bibinitperiod},
+           given={Marisol},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8c57e6b02747b5c52ed809b412f59b27}
+      \strng{fullhash}{8c57e6b02747b5c52ed809b412f59b27}
+      \strng{bibnamehash}{8c57e6b02747b5c52ed809b412f59b27}
+      \strng{authorbibnamehash}{8c57e6b02747b5c52ed809b412f59b27}
+      \strng{authornamehash}{8c57e6b02747b5c52ed809b412f59b27}
+      \strng{authorfullhash}{8c57e6b02747b5c52ed809b412f59b27}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{TripleC}
+      \field{month}{09}
+      \field{title}{The Diamond Model of Open Access Publishing: Why Policy Makers, Scholars, Universities, Libraries, Labour Unions and the Publishing World Need to Take Non-Commercial, Non-Profit Open Access Serious}
+      \field{volume}{11}
+      \field{year}{2013}
+      \field{pages}{428\bibrangedash 443}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.31269/vol11iss2pp428-443
+      \endverb
+    \endentry
+    \entry{ghosh}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=36a360d7a24ccc30956ed8f337df6e52}{%
+           family={Ghosh},
+           familyi={G\bibinitperiod},
+           given={Pallab},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {British Broadcasting Corporation}%
+      }
+      \strng{namehash}{36a360d7a24ccc30956ed8f337df6e52}
+      \strng{fullhash}{36a360d7a24ccc30956ed8f337df6e52}
+      \strng{bibnamehash}{36a360d7a24ccc30956ed8f337df6e52}
+      \strng{authorbibnamehash}{36a360d7a24ccc30956ed8f337df6e52}
+      \strng{authornamehash}{36a360d7a24ccc30956ed8f337df6e52}
+      \strng{authorfullhash}{36a360d7a24ccc30956ed8f337df6e52}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Google's Vint Cerf warns of 'digital Dark Age'}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.bbc.com/news/science-environment-31450389
+      \endverb
+      \verb{url}
+      \verb http://www.bbc.com/news/science-environment-31450389
+      \endverb
+    \endentry
+    \entry{goldman}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=d462693c0a601eff24aa363ac9330e5f}{%
+           family={Goldman},
+           familyi={G\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1a1938c055a17e974ae88490a4a1a0cb}{%
+           family={Gabriel},
+           familyi={G\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Burlington}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{968d302a59004f0158bee4a3076c4b05}
+      \strng{fullhash}{968d302a59004f0158bee4a3076c4b05}
+      \strng{bibnamehash}{968d302a59004f0158bee4a3076c4b05}
+      \strng{authorbibnamehash}{968d302a59004f0158bee4a3076c4b05}
+      \strng{authornamehash}{968d302a59004f0158bee4a3076c4b05}
+      \strng{authorfullhash}{968d302a59004f0158bee4a3076c4b05}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Innovation Happens Elsewhere. Open Source as Business Strategy}
+      \field{year}{2005}
+    \endentry
+    \entry{greco}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=de9abb188c73f685b39e4992fc6642c3}{%
+           family={Greco},
+           familyi={G\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e4b0ae4b41444894973d6e7089af90b2}{%
+           family={Silvestrini},
+           familyi={S\bibinitperiod},
+           given={Vittorio},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Roma}%
+      }
+      \list{publisher}{1}{%
+        {Editori Riuniti University Press}%
+      }
+      \strng{namehash}{c2a7d1bf92f51865cb283a1843991cce}
+      \strng{fullhash}{c2a7d1bf92f51865cb283a1843991cce}
+      \strng{bibnamehash}{c2a7d1bf92f51865cb283a1843991cce}
+      \strng{authorbibnamehash}{c2a7d1bf92f51865cb283a1843991cce}
+      \strng{authornamehash}{c2a7d1bf92f51865cb283a1843991cce}
+      \strng{authorfullhash}{c2a7d1bf92f51865cb283a1843991cce}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La risorsa infinita. Per una società democratica della conoscenza.}
+      \field{year}{2009}
+    \endentry
+    \entry{himmelstein}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=cac3e6f188aabcfb803d3e711c5ea323}{%
+           family={Himmelstein},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e9721a011dd803c9d744bd3bce772499}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={Ariel\bibnamedelima Rodriguez},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ed076524c58623521fd002943e5910af}{%
+           family={Levernier},
+           familyi={L\bibinitperiod},
+           given={Jacob\bibnamedelima G},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dc8395064170beff2a64555a24297e5a}{%
+           family={Munro},
+           familyi={M\bibinitperiod},
+           given={Thomas\bibnamedelima Anthony},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b19146695857f124ebbe3ab5d0959ee2}{%
+           family={McLaughlin},
+           familyi={M\bibinitperiod},
+           given={Stephen\bibnamedelima Reid},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6948df202bfa08f4fcd493222afc66dc}{%
+           family={Tzovaras},
+           familyi={T\bibinitperiod},
+           given={Bastian\bibnamedelima Greshake},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ae3ddd45a06c8bc33cd7778d69ce0ddc}{%
+           family={Greene},
+           familyi={G\bibinitperiod},
+           given={Casey\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {eLife Sciences Publications Limited}%
+      }
+      \strng{namehash}{57f5a2ce95f295642dbd963d31c272cf}
+      \strng{fullhash}{5c1d9653a0d738eb8e4078094972c12d}
+      \strng{bibnamehash}{57f5a2ce95f295642dbd963d31c272cf}
+      \strng{authorbibnamehash}{57f5a2ce95f295642dbd963d31c272cf}
+      \strng{authornamehash}{57f5a2ce95f295642dbd963d31c272cf}
+      \strng{authorfullhash}{5c1d9653a0d738eb8e4078094972c12d}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ELife}
+      \field{title}{Sci-Hub provides access to nearly all scholarly literature}
+      \field{volume}{7}
+      \field{year}{2018}
+      \field{pages}{e32822}
+      \range{pages}{-1}
+    \endentry
+    \entry{jeon}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=ca1503f2d3f999eac02723c221e83b71}{%
+           family={Jeon},
+           familyi={J\bibinitperiod},
+           given={Doh-Shin},
+           giveni={D\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=83429aec4a23b7146ad54be4e8805115}{%
+           family={Menicucci},
+           familyi={M\bibinitperiod},
+           given={Domenico},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{f87982c704c544480adb042ad8505d84}
+      \strng{fullhash}{f87982c704c544480adb042ad8505d84}
+      \strng{bibnamehash}{f87982c704c544480adb042ad8505d84}
+      \strng{authorbibnamehash}{f87982c704c544480adb042ad8505d84}
+      \strng{authornamehash}{f87982c704c544480adb042ad8505d84}
+      \strng{authorfullhash}{f87982c704c544480adb042ad8505d84}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Site licensing of electronic journals has revolutionized the way academic information is distributed. However, many librarians are concerned about the possibility that commercial publishers might abuse site licensing by the practice of bundling. In this paper, we analyze how bundling affects journal pricing in the market of scientific, technical, and medical electronic journals and offer a novel insight on the bundling of a large number of information goods. We find that (i) when bundling is prohibited, surprisingly, industry concentration does not affect prices; (ii) when bundling is allowed, each publisher finds bundling profitable and bundling increases industry profits while reducing social welfare; and (iii) any merger among publishers already active in the market is profitable but reduces social welfare.}
+      \field{issn}{15424766, 15424774}
+      \field{journaltitle}{Journal of the European Economic Association}
+      \field{number}{5}
+      \field{title}{Bundling Electronic Journals and Competition Among Publishers}
+      \field{volume}{4}
+      \field{year}{2006}
+      \field{pages}{1038\bibrangedash 1083}
+      \range{pages}{46}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/40004964
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/40004964
+      \endverb
+    \endentry
+    \entry{kuhn}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=053c28eebfbae4100b0ead2b404c02db}{%
+           family={Kuhn},
+           familyi={K\bibinitperiod},
+           given={Thomas\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=df4eae2e022e46f16a03f736d6ef5b33}{%
+           family={Hacking},
+           familyi={H\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Chicago, London}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago}%
+      }
+      \strng{namehash}{3647c1c7053620079a8f97657d3e7cd0}
+      \strng{fullhash}{3647c1c7053620079a8f97657d3e7cd0}
+      \strng{bibnamehash}{3647c1c7053620079a8f97657d3e7cd0}
+      \strng{authorbibnamehash}{3647c1c7053620079a8f97657d3e7cd0}
+      \strng{authornamehash}{3647c1c7053620079a8f97657d3e7cd0}
+      \strng{authorfullhash}{3647c1c7053620079a8f97657d3e7cd0}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{The structure of scientific revolutions.}
+      \field{year}{2012}
+    \endentry
+    \entry{lahart}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7f4f488f18dc82adabc8fa007d2eece7}{%
+           family={Lahart},
+           familyi={L\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {The Wall Street Journal}%
+      }
+      \strng{namehash}{7f4f488f18dc82adabc8fa007d2eece7}
+      \strng{fullhash}{7f4f488f18dc82adabc8fa007d2eece7}
+      \strng{bibnamehash}{7f4f488f18dc82adabc8fa007d2eece7}
+      \strng{authorbibnamehash}{7f4f488f18dc82adabc8fa007d2eece7}
+      \strng{authornamehash}{7f4f488f18dc82adabc8fa007d2eece7}
+      \strng{authorfullhash}{7f4f488f18dc82adabc8fa007d2eece7}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Taking an Open-Source Approach to Hardware.}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://www.wsj.com/articles/SB10001424052748703499404574559960271468066
+      \endverb
+      \verb{url}
+      \verb https://www.wsj.com/articles/SB10001424052748703499404574559960271468066
+      \endverb
+    \endentry
+    \entry{lariviere}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=4c0515e6d2830651f8c22083bf36ada7}{%
+           family={Lariviére},
+           familyi={L\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c69be93705cda777ef46cee21a337dcd}{%
+           family={Haustein},
+           familyi={H\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=826f729ca88e3df0c38dc579f5c029b0}{%
+           family={Mongeon},
+           familyi={M\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{45d56d34a1abee14811f4500b6e6df87}
+      \strng{fullhash}{45d56d34a1abee14811f4500b6e6df87}
+      \strng{bibnamehash}{45d56d34a1abee14811f4500b6e6df87}
+      \strng{authorbibnamehash}{45d56d34a1abee14811f4500b6e6df87}
+      \strng{authornamehash}{45d56d34a1abee14811f4500b6e6df87}
+      \strng{authorfullhash}{45d56d34a1abee14811f4500b6e6df87}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{6}
+      \field{title}{The oligopoly of academic publishers in the digital era}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{e0127502}
+      \range{pages}{-1}
+    \endentry
+    \entry{lasse}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=df3e68171c28f7543ea87103ada762a4}{%
+           family={Lasse},
+           familyi={L\bibinitperiod},
+           given={Lueth\bibnamedelima Knud},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IoT Analythics}%
+      }
+      \strng{namehash}{df3e68171c28f7543ea87103ada762a4}
+      \strng{fullhash}{df3e68171c28f7543ea87103ada762a4}
+      \strng{bibnamehash}{df3e68171c28f7543ea87103ada762a4}
+      \strng{authorbibnamehash}{df3e68171c28f7543ea87103ada762a4}
+      \strng{authornamehash}{df3e68171c28f7543ea87103ada762a4}
+      \strng{authorfullhash}{df3e68171c28f7543ea87103ada762a4}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{State of the IoT 2018: Number of IoT devices now at 7B - Market accelerating.}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://iot-analytics.com/state-of-the-iot-update-q1-q2-2018-number-of-iot-devices-now-7b/
+      \endverb
+      \verb{url}
+      \verb https://iot-analytics.com/state-of-the-iot-update-q1-q2-2018-number-of-iot-devices-now-7b/
+      \endverb
+    \endentry
+    \entry{maci2012a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=616556218fcb757e2598dc9d8749b0ca}{%
+           family={Maci},
+           familyi={M\bibinitperiod},
+           given={Luciana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Corriere delle Comunicazioni}%
+      }
+      \strng{namehash}{616556218fcb757e2598dc9d8749b0ca}
+      \strng{fullhash}{616556218fcb757e2598dc9d8749b0ca}
+      \strng{bibnamehash}{616556218fcb757e2598dc9d8749b0ca}
+      \strng{authorbibnamehash}{616556218fcb757e2598dc9d8749b0ca}
+      \strng{authornamehash}{616556218fcb757e2598dc9d8749b0ca}
+      \strng{authorfullhash}{616556218fcb757e2598dc9d8749b0ca}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Digital dark age, Allegrezza: "PA italiana a rischio amnesia".}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.corrierecomunicazioni.it/it-world/18257_digital-dark-age-allegrezza-pa-italiana-a-rischio-amnesia.htm
+      \endverb
+      \verb{url}
+      \verb http://www.corrierecomunicazioni.it/it-world/18257_digital-dark-age-allegrezza-pa-italiana-a-rischio-amnesia.htm
+      \endverb
+    \endentry
+    \entry{maci2012b}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=616556218fcb757e2598dc9d8749b0ca}{%
+           family={Maci},
+           familyi={M\bibinitperiod},
+           given={Luciana},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Corriere delle Comunicazioni}%
+      }
+      \strng{namehash}{616556218fcb757e2598dc9d8749b0ca}
+      \strng{fullhash}{616556218fcb757e2598dc9d8749b0ca}
+      \strng{bibnamehash}{616556218fcb757e2598dc9d8749b0ca}
+      \strng{authorbibnamehash}{616556218fcb757e2598dc9d8749b0ca}
+      \strng{authornamehash}{616556218fcb757e2598dc9d8749b0ca}
+      \strng{authorfullhash}{616556218fcb757e2598dc9d8749b0ca}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Digital dark age, il futuro è senza dati?}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.corrierecomunicazioni.it/it-world/18256_digital-dark-age-il-futuro-e-senza-dati.htm
+      \endverb
+      \verb{url}
+      \verb http://www.corrierecomunicazioni.it/it-world/18256_digital-dark-age-il-futuro-e-senza-dati.htm
+      \endverb
+    \endentry
+    \entry{marx}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=af80d32a7d375e934f94bdfb27bf2999}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3a1e990d3dad310477183f9c3b97fce5}{%
+           family={Eugenio},
+           familyi={E\bibinitperiod},
+           given={Sbardella},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Roma}%
+      }
+      \list{publisher}{1}{%
+        {Avanzini e Torraca Editori}%
+      }
+      \strng{namehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{fullhash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{bibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorbibnamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authornamehash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{authorfullhash}{af80d32a7d375e934f94bdfb27bf2999}
+      \strng{editorbibnamehash}{3a1e990d3dad310477183f9c3b97fce5}
+      \strng{editornamehash}{3a1e990d3dad310477183f9c3b97fce5}
+      \strng{editorfullhash}{3a1e990d3dad310477183f9c3b97fce5}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Il Capitale}
+      \field{year}{1965}
+    \endentry
+    \entry{vanNoorden}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=afd4c4fc4e75cfe2265b0a08da9f2d45}{%
+           family={Noorden},
+           familyi={N\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{afd4c4fc4e75cfe2265b0a08da9f2d45}
+      \strng{fullhash}{afd4c4fc4e75cfe2265b0a08da9f2d45}
+      \strng{bibnamehash}{afd4c4fc4e75cfe2265b0a08da9f2d45}
+      \strng{authorbibnamehash}{afd4c4fc4e75cfe2265b0a08da9f2d45}
+      \strng{authornamehash}{afd4c4fc4e75cfe2265b0a08da9f2d45}
+      \strng{authorfullhash}{afd4c4fc4e75cfe2265b0a08da9f2d45}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{7442}
+      \field{journaltitle}{Nature News}
+      \field{title}{Open access: The true cost of science publishing.}
+      \field{volume}{495}
+      \field{year}{2013}
+      \field{pages}{426}
+      \range{pages}{1}
+    \endentry
+    \entry{pulselli}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e9ee0ee96c02fc5d1a90f12b6d4c1bb1}{%
+           family={Pulselli},
+           familyi={P\bibinitperiod},
+           given={F.M.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Donzelli}%
+      }
+      \strng{namehash}{e9ee0ee96c02fc5d1a90f12b6d4c1bb1}
+      \strng{fullhash}{e9ee0ee96c02fc5d1a90f12b6d4c1bb1}
+      \strng{bibnamehash}{e9ee0ee96c02fc5d1a90f12b6d4c1bb1}
+      \strng{authorbibnamehash}{e9ee0ee96c02fc5d1a90f12b6d4c1bb1}
+      \strng{authornamehash}{e9ee0ee96c02fc5d1a90f12b6d4c1bb1}
+      \strng{authorfullhash}{e9ee0ee96c02fc5d1a90f12b6d4c1bb1}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9788860366603}
+      \field{title}{La soglia della sostenibilità. Ovvero quello che il Pil non dice}
+      \field{year}{2011}
+    \endentry
+    \entry{rossi}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=51889148d8e9556828495730da391cc5}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Corriere della Sera}%
+      }
+      \strng{namehash}{51889148d8e9556828495730da391cc5}
+      \strng{fullhash}{51889148d8e9556828495730da391cc5}
+      \strng{bibnamehash}{51889148d8e9556828495730da391cc5}
+      \strng{authorbibnamehash}{51889148d8e9556828495730da391cc5}
+      \strng{authornamehash}{51889148d8e9556828495730da391cc5}
+      \strng{authorfullhash}{51889148d8e9556828495730da391cc5}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Genova il futuro del web e della scienza.}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.corriere.it/scienze/07_settembre_28/festival_scienza.shtml
+      \endverb
+      \verb{url}
+      \verb https://www.corriere.it/scienze/07_settembre_28/festival_scienza.shtml
+      \endverb
+    \endentry
+    \entry{stallman}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=1dfe179dc9301b7f9e2ce5c352009d00}{%
+           family={Stallman},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {GNU Foundation}%
+      }
+      \strng{namehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{fullhash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{bibnamehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{authorbibnamehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{authornamehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{authorfullhash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why Open Source misses the point of Free Software.}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.gnu.org/philosophy/open-source-misses-the-point.en.html
+      \endverb
+      \verb{url}
+      \verb http://www.gnu.org/philosophy/open-source-misses-the-point.en.html
+      \endverb
+    \endentry
+    \entry{stegman}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b76eafdcc4b00e9b53cbca2afe1d6171}{%
+           family={Stegman},
+           familyi={S\bibinitperiod},
+           given={Casey},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {RedHat}%
+      }
+      \strng{namehash}{b76eafdcc4b00e9b53cbca2afe1d6171}
+      \strng{fullhash}{b76eafdcc4b00e9b53cbca2afe1d6171}
+      \strng{bibnamehash}{b76eafdcc4b00e9b53cbca2afe1d6171}
+      \strng{authorbibnamehash}{b76eafdcc4b00e9b53cbca2afe1d6171}
+      \strng{authornamehash}{b76eafdcc4b00e9b53cbca2afe1d6171}
+      \strng{authorfullhash}{b76eafdcc4b00e9b53cbca2afe1d6171}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Open Source Stories. AI Revolutionaries.}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{s.a\adddot}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.redhat.com/en/open-source-stories/ai-revolutionaries/origins-ai-open-source
+      \endverb
+      \verb{url}
+      \verb https://www.redhat.com/en/open-source-stories/ai-revolutionaries/origins-ai-open-source
+      \endverb
+    \endentry
+    \entry{suber}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=426bafcbb4812735e1749fecef8de4de}{%
+           family={Suber},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BMJ Publishing Group Ltd}%
+      }
+      \strng{namehash}{426bafcbb4812735e1749fecef8de4de}
+      \strng{fullhash}{426bafcbb4812735e1749fecef8de4de}
+      \strng{bibnamehash}{426bafcbb4812735e1749fecef8de4de}
+      \strng{authorbibnamehash}{426bafcbb4812735e1749fecef8de4de}
+      \strng{authornamehash}{426bafcbb4812735e1749fecef8de4de}
+      \strng{authorfullhash}{426bafcbb4812735e1749fecef8de4de}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMJ}
+      \field{title}{Ensuring open access for publicly funded research}
+      \field{volume}{345}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1136/bmj.e5184
+      \endverb
+    \endentry
+    \entry{taylor}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a4346baa06e2e547033ddca68d92572d}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4346baa06e2e547033ddca68d92572d}
+      \strng{fullhash}{a4346baa06e2e547033ddca68d92572d}
+      \strng{bibnamehash}{a4346baa06e2e547033ddca68d92572d}
+      \strng{authorbibnamehash}{a4346baa06e2e547033ddca68d92572d}
+      \strng{authornamehash}{a4346baa06e2e547033ddca68d92572d}
+      \strng{authorfullhash}{a4346baa06e2e547033ddca68d92572d}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Discover}
+      \field{number}{21}
+      \field{title}{It's Not Academic: How Publishers Are Squelching Science Communication}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://blogs.discovermagazine.com/crux/2012/02/21/its-not-academic-how-publishers-are-squelching-science-communication/#.XRthqOgzZPY
+      \endverb
+      \verb{url}
+      \verb http://blogs.discovermagazine.com/crux/2012/02/21/its-not-academic-how-publishers-are-squelching-science-communication/#.XRthqOgzZPY
+      \endverb
+    \endentry
+    \entry{williams}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=53567d28963d8753214cd2a15d32e79a}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Beijing}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{53567d28963d8753214cd2a15d32e79a}
+      \strng{fullhash}{53567d28963d8753214cd2a15d32e79a}
+      \strng{bibnamehash}{53567d28963d8753214cd2a15d32e79a}
+      \strng{authorbibnamehash}{53567d28963d8753214cd2a15d32e79a}
+      \strng{authornamehash}{53567d28963d8753214cd2a15d32e79a}
+      \strng{authorfullhash}{53567d28963d8753214cd2a15d32e79a}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781449323363}
+      \field{title}{Free as in Freedom: Richard Stallman's Crusade for Free Software}
+      \field{year}{2002}
+    \endentry
+    \entry{yeaton}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=98892879ef0830bc787a91b253f81523}{%
+           family={Yeaton},
+           familyi={Y\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Wired}%
+      }
+      \strng{namehash}{98892879ef0830bc787a91b253f81523}
+      \strng{fullhash}{98892879ef0830bc787a91b253f81523}
+      \strng{bibnamehash}{98892879ef0830bc787a91b253f81523}
+      \strng{authorbibnamehash}{98892879ef0830bc787a91b253f81523}
+      \strng{authornamehash}{98892879ef0830bc787a91b253f81523}
+      \strng{authorfullhash}{98892879ef0830bc787a91b253f81523}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{In a World Without Open Source.}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://www.wired.com/insights/2013/07/in-a-world-without-open-source/
+      \endverb
+      \verb{url}
+      \verb https://www.wired.com/insights/2013/07/in-a-world-without-open-source/
+      \endverb
+    \endentry
+    \entry{zachte}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=469ace79c946e32d5362a0ea5248fd34}{%
+           family={Zachte},
+           familyi={Z\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Wikimedia Commons}%
+      }
+      \strng{namehash}{469ace79c946e32d5362a0ea5248fd34}
+      \strng{fullhash}{469ace79c946e32d5362a0ea5248fd34}
+      \strng{bibnamehash}{469ace79c946e32d5362a0ea5248fd34}
+      \strng{authorbibnamehash}{469ace79c946e32d5362a0ea5248fd34}
+      \strng{authornamehash}{469ace79c946e32d5362a0ea5248fd34}
+      \strng{authorfullhash}{469ace79c946e32d5362a0ea5248fd34}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wikipedia Statistics. Article count (official).}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://stats.wikimedia.org/EN/TablesArticlesTotal.htm
+      \endverb
+      \verb{url}
+      \verb https://stats.wikimedia.org/EN/TablesArticlesTotal.htm
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

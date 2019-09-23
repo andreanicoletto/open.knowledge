@@ -1,0 +1,55 @@
+% Impostazione della classe (memoir) 
+\documentclass[11pt,a4paper,oneside]{memoir}
+\usepackage{lipsum}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+
+\usepackage{hyperref}
+\usepackage[babel]{csquotes}
+\usepackage[style=authoryear-comp,hyperref]{biblatex}
+
+\addbibresource{bibliografia.bib}
+
+\chapterstyle{dash}
+
+\makepagestyle{mystyle}
+\makeevenhead{mystyle}{}{}{}
+\makeoddhead{mystyle}{}{}{}
+\makeevenfoot{mystyle}{}{\thepage}{}
+\makeoddfoot{mystyle}{}{\thepage}{}
+
+\pagestyle{mystyle}
+
+\setlrmarginsandblock{3.5cm}{3.5cm}{*}
+\setulmarginsandblock{2.5cm}{*}{1}
+\checkandfixthelayout  
+
+\newcommand*{\titleAM}{
+\begingroup
+	\centering
+	{\large Andrea Nicoletto}\\[4\baselineskip]
+	{\HUGE OPEN KNOWLEDGE}\\[2\baselineskip]
+	{\large\scshape Come la condivisione}\\
+	{\large\scshape crea il progresso della conoscenza}\\[2\baselineskip]
+	\par{\small\scshape 2018}\par
+	\vfill
+	\null
+\endgroup}
+
+
+\begin{document}
+\begin{titlingpage}
+\titleAM
+\end{titlingpage}
+
+\include{0-prefazione}
+\include{1-capitolo}
+\include{2-capitolo}
+\include{3-capitolo}
+\include{4-capitolo}
+\include{5-capitolo}
+\include{6-capitolo}
+
+\printbibliography
+
+\end{document} 
